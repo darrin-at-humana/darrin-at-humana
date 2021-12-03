@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @darrin-at-humana. I work for Cognizant directly, currently involved with Humana as a Chief DevOps Architect. 
+- 👀 I’m interested in DevOps and all things that improve the development experience.
+- 🌱 I’m currently learning many of the new DevOps tools and practices that are continually being improved upon and refined.
+- 💞️ I collaborate with my team members and others concerning DevOps and other technologies we use at Humana.
+- 📫 You can reach me at dtisdale@humana.com, my email.
